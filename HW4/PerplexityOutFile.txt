@@ -1,0 +1,2 @@
+MonoGram Perplexity: 468.9350614906923
+BiGram Perplexity: 188.6060726076305
